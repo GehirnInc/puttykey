@@ -1,4 +1,4 @@
-package main
+package puttykey
 
 import (
 	"bytes"
